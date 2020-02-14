@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Table Programm</title>
+<title>Table Programm Table Programm Table Programm Table Programm</title>
 </head>
 <body>
 <h1>Student details of VSK University, Ballari</h1>
