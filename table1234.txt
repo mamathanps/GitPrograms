@@ -1,0 +1,40 @@
+<html>
+<head>
+<title>Table Programm</title>
+</head>
+<body>
+<h1>Student details of VSK University, Ballari</h1>
+<table border=2px solid black>
+<tr>
+<th>Sl.No</th>
+<th>Name</th>
+<th>Reg.No</th>
+<th>Course</th>
+</tr>
+<tr>
+<td>01</td>
+<td>Mamatha</td>
+<td>CS1111</td>
+<td>FSWD</td>
+</tr>
+<tr>
+<td>02</td>
+<td>Swathi</td>
+<td>CS2222</td>
+<td>Mathematics</td>
+</tr>
+<tr>
+<td>03</td>
+<td>Hema</td>
+<td>PH3333</td>
+<td>Physics</td>
+</tr>
+<tr>
+<td>04</td>
+<td>Pooja</td>
+<td>EN5555</td>
+<td>Engineering</td>
+</tr>
+</table>
+</body>
+</html>
