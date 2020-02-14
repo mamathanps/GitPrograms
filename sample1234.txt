@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Paragraph program</title>
+<title>Paragraph programTable Programm</title>
 </head>
 <body>
 <h2>Githu definition</h2>
